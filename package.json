@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-demo-server",
+  "version": "1.0.0",
+  "description": "Node server demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "truongnvn",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
