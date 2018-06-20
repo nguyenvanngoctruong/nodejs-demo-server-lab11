@@ -1,4 +1,3 @@
-/ Load the AWS SDK for Node.js
 var AWS = require('aws-sdk');
 /**
 * Don't hard-code your credentials!
